@@ -7,6 +7,7 @@ I modified the keyboard layout to fit what I need. Mainly the following,
 - 2 - Select other units
 - Alt+3 - Rune Check Shuffle
 - Mouse 4 - Control Group 1
+- Next level HP Bar from http://www.reddit.com/r/DotA2/comments/27xk9x/this_shows_you_whether_your_heros_magic_damage_is/
 
 I modified it from Loopuleasa's layout such that I have easier access to the above functions.
 Each file has a role, and modify what you want in it.
