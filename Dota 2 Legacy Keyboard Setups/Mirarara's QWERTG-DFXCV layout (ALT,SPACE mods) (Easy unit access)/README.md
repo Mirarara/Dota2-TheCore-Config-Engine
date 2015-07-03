@@ -2,11 +2,11 @@
 
 This layout is forked from Loopuleasa's Super Compact QWERTG-DFXCV v4.3.
 I modified the keyboard layout to fit what I need. Mainly the following,
-F1 - Select hero
-1 - Select all units
-2 - Select other units
-Alt+3 - Rune Check Shuffle
-Mouse 4 - Control Group 1
+- F1 - Select hero
+- 1 - Select all units
+- 2 - Select other units
+- Alt+3 - Rune Check Shuffle
+- Mouse 4 - Control Group 1
 
 I modified it from Loopuleasa's layout such that I have easier access to the above functions.
 Each file has a role, and modify what you want in it.
